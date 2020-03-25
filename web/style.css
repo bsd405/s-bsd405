@@ -286,9 +286,9 @@ body {
 	filter: blur(0);
 }
 
-.icon--codepen a {
-	background-color: #111;
-	background-image: url("https://benhodgson.net/img/social/codepen.svg");
+.icon--navi a {
+	background-color: #FF6347;
+	background-image: url(images/icons8-staff.svg);
 }
 
 .icon--sharepoint a {
