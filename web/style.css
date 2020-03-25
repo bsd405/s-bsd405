@@ -284,3 +284,8 @@ body {
         filter: blur(0);
     }
 }
+
+.icon--sharepoint a {
+    background-color: #80b719;
+    background-image: url('images/icons8-microsoft_sharepoint.svg');
+}
