@@ -58,7 +58,7 @@
           <h2>SS Assignment</h2>
           <!-- Date (Element)--><span>15 May - 23 May 2016</span>
           <!-- Avatar (Element)-->
-          <div class="dashboard-list__avatar"><img src="http://placehold.it/31/95BFBF/FFF" data-avatar-id="0"/></div>
+          <div class="dashboard-list__avatar"><img src="" data-avatar-id="0"/></div>
         </div>
         <!-- Dasboard List Item (Element)-->
         <div class="dashboard-list__item dashboard-list__item--active" data-item-id="bromo">
@@ -66,7 +66,7 @@
           <h2>LA Assignment</h2>
           <!-- Date (Element)--><span>15 May - 23 May 2016</span>
           <!-- Avatar (Element)-->
-          <div class="dashboard-list__avatar"><img src="http://placehold.it/31/95BFBF/FFF" data-avatar-id="0"/></div>
+          <div class="dashboard-list__avatar"><img src="" data-avatar-id="0"/></div>
         </div>
       </div>
     </div>
