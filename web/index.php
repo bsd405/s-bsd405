@@ -72,7 +72,13 @@
     </div>
     <!-- Dashboard Content Panel (Element)-->
     <div class="dashboard-content__panel" data-panel-id="discover_places">
-      <p>Quick Links</p>
+      <ul class="social-icons">
+  <li class="icon icon--sharepoint">
+    <a href="https://bsd405.sharepoint.com/sites/student/Pages/StudentPortal.aspx">
+      <span class="icon__name">Student Portal</span>
+    </a>
+  </li>
+      </ul>
     </div>
     <!-- Dashboard Content Panel (Element)-->
     <div class="dashboard-content__panel" data-panel-id="notifications">
