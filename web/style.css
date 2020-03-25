@@ -316,7 +316,7 @@ body {
 	background-image: url(images/icons8-c.svg);
 }
 
-.icon--onedrive {
+.icon--onedrive a {
 	background-color: #405de6;
 	background-image: url(images/icons8-onedrive.svg);
 }
