@@ -286,9 +286,9 @@ body {
 	filter: blur(0);
 }
 
-.icon--codepen a {
-	background-color: #111;
-	background-image: url("https://benhodgson.net/img/social/codepen.svg");
+.icon--navi a {
+	background-color: #FF6347;
+	background-image: url(images/icons8-staff.svg);
 }
 
 .icon--sharepoint a {
@@ -296,44 +296,37 @@ body {
 	background-image: url(images/icons8-microsoft_sharepoint.svg);
 }
 
-.icon--linkedin a {
-	background-color: #007fb1;
-	background-image: url("https://benhodgson.net/img/social/linkedin.svg");
-}
 
-.icon--instagram a {
+
+.icon--outlook a {
 	background-color: #405de6;
-	background-image: url("https://benhodgson.net/img/social/instagram.svg");
+	background-image: url(images/icons8-microsoft_outlook_2019.svg);
 }
 
-.icon--flickr a {
+.icon--grades a {
 	background-color: #ff0084;
-	background-image: url("https://benhodgson.net/img/social/flickr.svg");
+	background-image: url(images/icons8-student_male.svg);
 }
 
-.icon--spotify a {
-	background-color: #80b719;
-	background-image: url("https://benhodgson.net/img/social/spotify.svg");
-}
-
-.icon--soundcloud a {
+.icon--clever a {
 	background-color: #f60;
-	background-image: url("https://benhodgson.net/img/social/soundcloud.svg");
+	background-image: url(images/icons8-c.svg);
 }
 
-.icon--songkick a {
+.icon--onedrive a {
+	background-color: #FFD700;
+	background-image: url(images/icons8-onedrive.svg);
+}
+
+.icon--help a {
 	background-color: #f80046;
-	background-image: url("https://benhodgson.net/img/social/songkick.svg");
+	background-image: url(images/icons8-computer.svg);
 }
 
-.icon--angellist a {
-	background-color: #eee;
-	background-image: url("https://benhodgson.net/img/social/angellist.svg");
-}
 
 .icon--github a {
 	background-color: #4078c0;
-	background-image: url("https://benhodgson.net/img/social/github.svg");
+	background-image: url("images/icons8-github.svg");
 }
 
 

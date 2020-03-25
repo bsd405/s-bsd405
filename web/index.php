@@ -78,39 +78,39 @@
       <span class="icon__name">Student Portal</span>
     </a>
   </li>
-  <li class="icon icon--instagram">
-    <a href="#">
-      <span class="icon__name">Instagram</span>
+  <li class="icon icon--outlook">
+    <a href="https://outlook.office.com/owa/?realm=bsd405.org&ver=16.1027.13.1880268&cver=16.1027.13.1880268&cf=1&vC=0&forceBO=false#path=/mail">
+      <span class="icon__name">Outlook</span>
     </a>
   </li>
-  <li class="icon icon--flickr">
-    <a href="#">
-      <span class="icon__name">Flickr</span>
+  <li class="icon icon--grades">
+    <a href="https://wa-bsd405-psv.edupoint.com/PXP2_Login_Student.aspx?regenerateSessionId=True">
+      <span class="icon__name">Synergy</span>
     </a>
   </li>
-  <li class="icon icon--spotify">
-    <a href="#">
-      <span class="icon__name">Spotify</span>
+  <li class="icon icon--clever">
+    <a href="https://clever.com/in/bsd405">
+      <span class="icon__name">Clever</span>
     </a>
   </li>
-  <li class="icon icon--soundcloud">
-    <a href="#">
-      <span class="icon__name">Soundcloud</span>
+  <li class="icon icon--onedrive">
+    <a href="https://bsd405-my.sharepoint.com/">
+      <span class="icon__name">Onedrive</span>
     </a>
   </li>
-  <li class="icon icon--songkick">
-    <a href="#">
-      <span class="icon__name">Songkick</span>
+  <li class="icon icon--help">
+    <a href="https://bsd405.sharepoint.com/HowTo/Technology/SitePages/Student%20How%20To%20Guides.aspx">
+      <span class="icon__name">Tech Help</span>
     </a>
   </li>
   <li class="icon icon--github">
-    <a href="#">
-      <span class="icon__name">GitHub</span>
+    <a href="https://github.com/bsd405/s-bsd405/">
+      <span class="icon__name">This Project</span>
     </a>
   </li>
-    <li class="icon icon--codepen">
-    <a href="#">
-      <span class="icon__name">Codepen</span>
+    <li class="icon icon--navi">
+    <a href="https://bsd405.org/about/initiatives/college/naviance/">
+      <span class="icon__name">Naviance</span>
     </a>
   </li>
 </ul>
