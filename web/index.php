@@ -73,9 +73,9 @@
     <!-- Dashboard Content Panel (Element)-->
     <div class="dashboard-content__panel" data-panel-id="discover_places">
       <ul class="social-icons">
-  <li class="icon icon--twitter">
-    <a href="#">
-      <span class="icon__name">Twitter</span>
+  <li class="icon icon--sharepoint">
+    <a href="https://bsd405.sharepoint.com/sites/student/Pages/StudentPortal.aspx">
+      <span class="icon__name">Student Portal</span>
     </a>
   </li>
   <li class="icon icon--linkedin">
