@@ -83,9 +83,9 @@
       <span class="icon__name">Outlook</span>
     </a>
   </li>
-  <li class="icon icon--flickr">
-    <a href="#">
-      <span class="icon__name">Flickr</span>
+  <li class="icon icon--grades">
+    <a href="https://wa-bsd405-psv.edupoint.com/PXP2_Login_Student.aspx?regenerateSessionId=True">
+      <span class="icon__name">Synergy</span>
     </a>
   </li>
   <li class="icon icon--spotify">
