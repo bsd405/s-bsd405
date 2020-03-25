@@ -73,12 +73,57 @@
     <!-- Dashboard Content Panel (Element)-->
     <div class="dashboard-content__panel" data-panel-id="discover_places">
       <ul class="social-icons">
-  <li class="icon icon--sharepoint">
-    <a href="https://bsd405.sharepoint.com/sites/student/Pages/StudentPortal.aspx">
-      <span class="icon__name">Student Portal</span>
+  <li class="icon icon--twitter">
+    <a href="#">
+      <span class="icon__name">Twitter</span>
     </a>
   </li>
-      </ul>
+  <li class="icon icon--linkedin">
+    <a href="#">
+      <span class="icon__name">LinkedIn</span>
+    </a>
+  </li>
+    <li class="icon icon--angellist">
+    <a href="#">
+      <span class="icon__name">Angellist</span>
+    </a>
+  </li>
+  <li class="icon icon--instagram">
+    <a href="#">
+      <span class="icon__name">Instagram</span>
+    </a>
+  </li>
+  <li class="icon icon--flickr">
+    <a href="#">
+      <span class="icon__name">Flickr</span>
+    </a>
+  </li>
+  <li class="icon icon--spotify">
+    <a href="#">
+      <span class="icon__name">Spotify</span>
+    </a>
+  </li>
+  <li class="icon icon--soundcloud">
+    <a href="#">
+      <span class="icon__name">Soundcloud</span>
+    </a>
+  </li>
+  <li class="icon icon--songkick">
+    <a href="#">
+      <span class="icon__name">Songkick</span>
+    </a>
+  </li>
+  <li class="icon icon--github">
+    <a href="#">
+      <span class="icon__name">GitHub</span>
+    </a>
+  </li>
+    <li class="icon icon--codepen">
+    <a href="#">
+      <span class="icon__name">Codepen</span>
+    </a>
+  </li>
+</ul>
     </div>
     <!-- Dashboard Content Panel (Element)-->
     <div class="dashboard-content__panel" data-panel-id="notifications">
