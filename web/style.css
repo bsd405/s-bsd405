@@ -335,3 +335,170 @@ body {
 	background-color: #4078c0;
 	background-image: url("https://benhodgson.net/img/social/github.svg");
 }
+
+
+ul {
+  list-style: none;
+}
+
+/** =======================
+ * Checkbox Toggle - Setting
+ ===========================*/
+
+.setting-menu {
+  position: relative;
+  max-width: 170px;
+  top: 0.6em;
+  left: 9em;
+}
+
+input {
+  position: absolute;
+  left: -9999px;
+}
+
+label {
+  display: block;
+  position: relative;
+  font-size: 11px;
+  margin: 20px;
+  padding: 5px 12px 5px 25px;
+  border: 2px solid #fff;
+  border-radius: 100px;
+  color: #fff;
+  background-color: #6a8494;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+  white-space: nowrap;
+  cursor: pointer;
+  user-select: none;
+  transition: background-color .2s, box-shadow .2s;
+}
+
+label::before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  left: 10px;
+  width: 1px;
+  border: 3px solid #fff;
+  border-radius: 100px;
+  transition: background-color .2s;
+}
+
+label:first-of-type {
+  transform: translateX(-40px);
+}
+
+label:last-of-type {
+  transform: translateX(40px);
+}
+
+label:hover, input:focus + label {
+  box-shadow: 0 0 20px rgba(0, 0, 0, .6);
+}
+
+input:checked + label {
+  background-color: #ab576c;
+}
+
+input:checked + label::before {
+  background-color: #fff;
+}
+
+/** =======================
+ * xd_accordion
+ ===========================*/
+
+#xd_accordion a {
+  color: #656363;
+  text-decoration: none;
+}
+
+.xd-accordion {
+  width: 100%;
+  max-width: 350px;
+  margin: 7em auto;
+  background: #4c4c4c;
+}
+
+.xd-accordion .side-links {
+  background: #607D8B;
+  color: #FFF;
+  padding: 8px 20px;
+  cursor: pointer;
+  display: block;
+  position: relative;
+  -webkit-transition: all 0.4s ease;
+  -moz-transition: all 0.4s ease;
+  -o-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+  border-bottom: 1px solid #688796;
+}
+
+.xd-accordion .side-links:last-child {
+  border-bottom: 0;
+}
+
+.xd-accordion .side-links:after {
+  color: #FFF;
+  width: 8px;
+  height: 8px;
+  border-right: 1px solid #FFF;
+  border-bottom: 1px solid #FFF;
+  position: absolute;
+  right: 15px;
+  content: "";
+  top: 13px;
+  transform: rotate(45deg);
+  -webkit-transition: all 0.2s ease-in-out; 
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+.xd-accordion .side-links.up:after {
+  top: 16px;
+  transform: rotate(-136deg);
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+/** =======================
+ * sub-menu
+ ===========================*/
+
+.xd-accordion .sub-menu {
+  font-size: 13px;
+  background: #e8e8e8;
+  display: none;
+}
+
+.xd-accordion .sub-menu.isopen {
+  display: block;
+}
+
+.sub-menu li {
+  border-bottom: 1px dotted #cecdcd;
+}
+
+.sub-menu li:last-child {
+  border-bottom: 0;
+}
+
+.sub-menu a {
+	display: block;
+ 	text-decoration: none;
+ 	color: #d9d9d9;
+ 	padding: 8px 12px;
+ 	padding-left: 20px;
+ 	-webkit-transition: all 0.25s ease;
+ 	-o-transition: all 0.25s ease;
+ 	transition: all 0.25s ease;
+}
+
+.sub-menu a:hover {
+  background: #dad9d9;
+  cursor: pointer;
+}

@@ -121,7 +121,51 @@
     </div>
     <!-- Dashboard Content Panel (Element)-->
     <div class="dashboard-content__panel" data-panel-id="settings">
-      <p>Settings</p>
+      <ul id="xd_accordion" class="xd-accordion">
+  
+  <div class="setting-menu">
+  <input id="xd_toggle" type="checkbox">
+  <label for="xd_toggle">Show all the Links</label>
+</div>  
+  
+  <li>
+    <div class="side-links up">Quick Links</div>
+    <ul class="sub-menu isopen">
+      <li><a href="#">Start a New Order</a></li>
+      <li><a href="#">Pending Order</a></li>
+      <li><a href="#">Order History</a></li>
+      <li><a href="#">Promotional Products</a></li>
+      <li><a href="#">Pricing</a></li>
+    </ul>
+  </li>
+    
+  <li>
+    <div class="side-links">Marketing Tools</div>
+    <ul class="sub-menu">
+      <li><a href="#">List Building Tools</a></li>
+      <li><a href="#">Delivery Options</a></li>
+      <li><a href="#">Marketing Tips</a></li>
+      <li><a href="#">Video Center</a></li>
+      <li><a href="#">QR Code Generator</a></li>
+      <li><a href="#">Subscribe to eNews</a></li>
+      <li><a href="#">Online Resources</a></li>
+    </ul>
+  </li>  
+  
+  <li>
+    <div class="side-links">Print & Direct Mail</div>
+    <ul class="sub-menu">
+      <li><a href="#">Brand Essentials</a></li>
+      <li><a href="#">Business Cards</a></li>
+      <li><a href="#">Property Postcards</a></li>
+      <li><a href="#">Property Brochures</a></li>
+      <li><a href="#">Luxury Collection</a></li>
+      <li><a href="#">Personal & Company Marketing</a></li>
+      <li><a href="#">Wallet Brochures</a></li>
+      <li><a href="#">Newsletters</a></li>
+    </ul>
+  </li>    
+<ul>  
     </div>
   </div>
   <!-- Dashboard Preview (Block)  -->
