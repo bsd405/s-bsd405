@@ -291,9 +291,9 @@ body {
 	background-image: url("https://benhodgson.net/img/social/codepen.svg");
 }
 
-.icon--twitter a {
+.icon--sharepoint a {
 	background-color: #00aced;
-	background-image: url("https://benhodgson.net/img/social/twitter.svg");
+	background-image: url(images/icons8_microsoft-sharepoint.svg);
 }
 
 .icon--linkedin a {
