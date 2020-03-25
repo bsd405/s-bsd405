@@ -316,9 +316,9 @@ body {
 	background-image: url(images/icons8-c.svg);
 }
 
-.icon--soundcloud a {
-	background-color: #80b719;
-	background-image: url("https://benhodgson.net/img/social/soundcloud.svg");
+.icon--onedrive {
+	background-color: #405de6;
+	background-image: url(images/icons8-onedrive.svg);
 }
 
 .icon--songkick a {
