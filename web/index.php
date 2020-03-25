@@ -96,18 +96,6 @@
       <!-- Content (Element)-->
       <div class="dashboard-preview__content">
         <section>
-          <h2>My Tasks</h2>
-          <label>
-            <input type="checkbox"/><span>Book tickets</span>
-          </label>
-          <label>
-            <input type="checkbox"/><span>Get passports ready</span>
-          </label>
-          <label>
-            <input type="checkbox"/><span>Book hotel rooms</span>
-          </label>
-        </section>
-        <section>
           <h2>Discussion <span>(36 unread)</span></h2>
         </section>
         <section>
@@ -129,18 +117,7 @@
       </div>
       <!-- Content (Element)-->
       <div class="dashboard-preview__content">
-        <section>
-          <h2>My Tasks</h2>
-          <label>
-            <input type="checkbox"/><span>Prepare the Sound Recorder</span>
-          </label>
-          <label>
-            <input type="checkbox"/><span>Book a resturant</span>
-          </label>
-          <label>
-            <input type="checkbox"/><span>Book 24 hotel rooms</span>
-          </label>
-        </section>
+        
         <section>
           <h2>Discussion <span>(97 unread)</span></h2>
         </section>
