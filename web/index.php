@@ -4,7 +4,8 @@
 <head>
   <meta charset="UTF-8">
   <title>Student Dashboard 0.1</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+  <link rel="stylesheet" href="https://cd
+                               njs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
 <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800'><link rel="stylesheet" href="./style.css">
 
 </head>
@@ -54,7 +55,7 @@
         <!-- Dasboard List Item (Element)-->
         <div class="dashboard-list__item" data-item-id="kulon_progo">
           <!-- Title (Element)-->
-          <h2>Team holiday Trip to The Jewel of Java, Kulon Progo</h2>
+          <h2>SS Assignment</h2>
           <!-- Date (Element)--><span>15 May - 23 May 2016</span>
           <!-- Avatar (Element)-->
           <div class="dashboard-list__avatar"><img src="http://placehold.it/31/95BFBF/FFF" data-avatar-id="0"/></div>
@@ -62,7 +63,7 @@
         <!-- Dasboard List Item (Element)-->
         <div class="dashboard-list__item dashboard-list__item--active" data-item-id="bromo">
           <!-- Title (Element)-->
-          <h2>Investors Meetup - Bromo</h2>
+          <h2>LA Assignment</h2>
           <!-- Date (Element)--><span>15 May - 23 May 2016</span>
           <!-- Avatar (Element)-->
           <div class="dashboard-list__avatar"><img src="http://placehold.it/31/95BFBF/FFF" data-avatar-id="0"/></div>
@@ -88,8 +89,8 @@
     <div class="dashboard-preview__panel" data-panel-id="kulon_progo">
       <!-- Header (Element)-->
       <div class="dashboard-preview__header">
-        <h2>Kulon Progo</h2>
-        <h3>34<span>C</span>
+        <h2>GPA:</h2>
+        <h3>4.00<span>!</span>
         </h3>
       </div>
       <!-- Content (Element)-->
