@@ -98,9 +98,9 @@
       <span class="icon__name">Onedrive</span>
     </a>
   </li>
-  <li class="icon icon--songkick">
-    <a href="#">
-      <span class="icon__name">Songkick</span>
+  <li class="icon icon--help">
+    <a href="https://bsd405.sharepoint.com/HowTo/Technology/SitePages/Student%20How%20To%20Guides.aspx">
+      <span class="icon__name">Tech Help</span>
     </a>
   </li>
   <li class="icon icon--github">
