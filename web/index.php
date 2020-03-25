@@ -122,8 +122,8 @@
     <div class="dashboard-preview__panel dashboard-preview__panel--active" data-panel-id="bromo">
       <!-- Header (Element)-->
       <div class="dashboard-preview__header">
-        <h2>Bromo</h2>
-        <h3>21<span>C</span>
+        <h2>GPA:</h2>
+        <h3>4.00<span>C</span>
         </h3>
       </div>
       <!-- Content (Element)-->
