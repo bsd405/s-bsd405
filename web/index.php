@@ -15,7 +15,7 @@
   <!-- Dashboard Sidebar (Block)-->
   <div class="dashboard-sidebar">
     <!-- Brand (Element)-->
-    <div class="dashboard-sidebar__brand"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/169963/planner_dashboard_logo.svg"/></div>
+    <div class="dashboard-sidebar__brand">Student Portal 0.1</div>
     <!-- Dashboard Nav (Block)-->
     <div class="dashboard-nav">
       <ul>
