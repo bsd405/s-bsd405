@@ -23,7 +23,7 @@
         <!-- Item (Element)-->
         <li class="dashboard-nav__item"><a href="home"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/169963/planner_dashboard_home.svg"/>Home</a></li>
         <!-- Item:Selected (Element:Modifier)        -->
-        <li class="dashboard-nav__item dashboard-nav__item--selected"><a href="my_trip"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/169963/planner_dashboard_my_trip.svg"/>My Trip</a></li>
+        <li class="dashboard-nav__item dashboard-nav__item--selected"><a href="my_trip"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/169963/planner_dashboard_my_trip.svg"/>Grades</a></li>
         <!-- Item (Element)-->
         <li class="dashboard-nav__item"><a href="discover_places"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/169963/planner_dashboard_discover_places.svg"/>Discover Places</a></li>
         <!-- Item (Element)-->
