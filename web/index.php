@@ -88,9 +88,9 @@
       <span class="icon__name">Synergy</span>
     </a>
   </li>
-  <li class="icon icon--spotify">
+  <li class="icon icon--clever">
     <a href="#">
-      <span class="icon__name">Spotify</span>
+      <span class="icon__name">Clever</span>
     </a>
   </li>
   <li class="icon icon--soundcloud">
