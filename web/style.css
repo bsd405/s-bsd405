@@ -296,10 +296,7 @@ body {
 	background-image: url(images/icons8-microsoft_sharepoint.svg);
 }
 
-.icon--linkedin a {
-	background-color: #007fb1;
-	background-image: url("https://benhodgson.net/img/social/linkedin.svg");
-}
+
 
 .icon--outlook a {
 	background-color: #405de6;
@@ -321,15 +318,11 @@ body {
 	background-image: url(images/icons8-onedrive.svg);
 }
 
-.icon--songkick a {
+.icon--help a {
 	background-color: #f80046;
-	background-image: url("https://benhodgson.net/img/social/songkick.svg");
+	background-image: url(images/icons8-computer.svg);
 }
 
-.icon--angellist a {
-	background-color: #eee;
-	background-image: url("https://benhodgson.net/img/social/angellist.svg");
-}
 
 .icon--github a {
 	background-color: #4078c0;
