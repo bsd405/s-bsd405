@@ -93,9 +93,9 @@
       <span class="icon__name">Clever</span>
     </a>
   </li>
-  <li class="icon icon--soundcloud">
-    <a href="#">
-      <span class="icon__name">Soundcloud</span>
+  <li class="icon icon--onedrive">
+    <a href="https://bsd405-my.sharepoint.com/">
+      <span class="icon__name">Onedrive</span>
     </a>
   </li>
   <li class="icon icon--songkick">
