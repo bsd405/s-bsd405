@@ -78,16 +78,6 @@
       <span class="icon__name">Student Portal</span>
     </a>
   </li>
-  <li class="icon icon--linkedin">
-    <a href="#">
-      <span class="icon__name">LinkedIn</span>
-    </a>
-  </li>
-    <li class="icon icon--angellist">
-    <a href="#">
-      <span class="icon__name">Angellist</span>
-    </a>
-  </li>
   <li class="icon icon--instagram">
     <a href="#">
       <span class="icon__name">Instagram</span>
