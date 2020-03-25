@@ -285,7 +285,55 @@ body {
     }
 }
 
-.icon--sharepoint a {
+
+// Customise Icons
+
+.icon--codepen a {
+    background-color: #111;
+    background-image: url('https://benhodgson.net/img/social/codepen.svg');
+}
+
+.icon--twitter a {
     background-color: #00aced;
-    background-image: url('images/icons8-microsoft_sharepoint.svg');
+    background-image: url('https://benhodgson.net/img/social/twitter.svg');
+}
+
+.icon--linkedin a {
+    background-color: #007fb1;
+    background-image: url('https://benhodgson.net/img/social/linkedin.svg');
+}
+
+.icon--instagram a {
+    background-color: #405de6;
+    background-image: url('https://benhodgson.net/img/social/instagram.svg');
+}
+
+.icon--flickr a {
+    background-color: #ff0084;
+    background-image: url('https://benhodgson.net/img/social/flickr.svg');
+}
+
+.icon--spotify a {
+    background-color: #80b719;
+    background-image: url('https://benhodgson.net/img/social/spotify.svg');
+}
+
+.icon--soundcloud a {
+    background-color: #f60;
+    background-image: url('https://benhodgson.net/img/social/soundcloud.svg');
+}
+
+.icon--songkick a {
+    background-color: #f80046;
+    background-image: url('https://benhodgson.net/img/social/songkick.svg');
+}
+
+.icon--angellist a {
+    background-color: #eee;
+    background-image: url('https://benhodgson.net/img/social/angellist.svg');
+}
+
+.icon--github a {
+    background-color: #4078c0;
+    background-image: url('https://benhodgson.net/img/social/github.svg');
 }
