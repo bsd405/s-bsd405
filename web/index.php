@@ -108,9 +108,9 @@
       <span class="icon__name">This Project</span>
     </a>
   </li>
-    <li class="icon icon--codepen">
-    <a href="#">
-      <span class="icon__name">Codepen</span>
+    <li class="icon icon--navi">
+    <a href="https://bsd405.org/about/initiatives/college/naviance/">
+      <span class="icon__name">Naviance</span>
     </a>
   </li>
 </ul>
