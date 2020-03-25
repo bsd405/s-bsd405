@@ -89,7 +89,7 @@
     </a>
   </li>
   <li class="icon icon--clever">
-    <a href="#">
+    <a href="https://clever.com/in/bsd405">
       <span class="icon__name">Clever</span>
     </a>
   </li>
