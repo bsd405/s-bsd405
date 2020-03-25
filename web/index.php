@@ -78,9 +78,9 @@
       <span class="icon__name">Student Portal</span>
     </a>
   </li>
-  <li class="icon icon--instagram">
-    <a href="#">
-      <span class="icon__name">Instagram</span>
+  <li class="icon icon--outlook">
+    <a href="https://outlook.office.com/owa/?realm=bsd405.org&ver=16.1027.13.1880268&cver=16.1027.13.1880268&cf=1&vC=0&forceBO=false#path=/mail">
+      <span class="icon__name">Outlook - EMAIL</span>
     </a>
   </li>
   <li class="icon icon--flickr">
