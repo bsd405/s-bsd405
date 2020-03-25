@@ -72,7 +72,7 @@
     </div>
     <!-- Dashboard Content Panel (Element)-->
     <div class="dashboard-content__panel" data-panel-id="discover_places">
-      <p>Discover Places</p>
+      <p>Quick Links</p>
     </div>
     <!-- Dashboard Content Panel (Element)-->
     <div class="dashboard-content__panel" data-panel-id="notifications">
