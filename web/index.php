@@ -123,7 +123,7 @@
       <!-- Header (Element)-->
       <div class="dashboard-preview__header">
         <h2>GPA:</h2>
-        <h3>4.00<span>C</span>
+        <h3>4.00<span>A</span>
         </h3>
       </div>
       <!-- Content (Element)-->
