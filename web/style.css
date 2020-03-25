@@ -312,12 +312,12 @@ body {
 }
 
 .icon--clever a {
-	background-color: #80b719;
+	background-color: #f60;
 	background-image: url(images/icons8-c.svg);
 }
 
 .icon--soundcloud a {
-	background-color: #f60;
+	background-color: #80b719;
 	background-image: url("https://benhodgson.net/img/social/soundcloud.svg");
 }
 
