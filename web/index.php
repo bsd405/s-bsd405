@@ -25,7 +25,7 @@
         <!-- Item:Selected (Element:Modifier)        -->
         <li class="dashboard-nav__item dashboard-nav__item--selected"><a href="my_trip"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/169963/planner_dashboard_my_trip.svg"/>Grades</a></li>
         <!-- Item (Element)-->
-        <li class="dashboard-nav__item"><a href="links"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/169963/planner_dashboard_discover_places.svg"/>Links</a></li>
+        <li class="dashboard-nav__item"><a href="discover_places"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/169963/planner_dashboard_discover_places.svg"/>Links</a></li>
         <!-- Item (Element)-->
         <li class="dashboard-nav__item"><a href="notifications"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/169963/planner_dashboard_notifications.svg"/>Notifications</a></li>
         <!-- Item (Element)-->
