@@ -104,8 +104,8 @@
     </a>
   </li>
   <li class="icon icon--github">
-    <a href="#">
-      <span class="icon__name">GitHub</span>
+    <a href="https://github.com/bsd405/s-bsd405/">
+      <span class="icon__name">This Project</span>
     </a>
   </li>
     <li class="icon icon--codepen">
