@@ -306,9 +306,9 @@ body {
 	background-image: url(images/icons8-microsoft_outlook_2019.svg);
 }
 
-.icon--flickr a {
+.icon--grades a {
 	background-color: #ff0084;
-	background-image: url("https://benhodgson.net/img/social/flickr.svg");
+	background-image: url(images/icons8-student_male.svg);
 }
 
 .icon--spotify a {
