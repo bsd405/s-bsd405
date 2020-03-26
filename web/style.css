@@ -413,7 +413,7 @@ input:checked + label::before {
   width: 100%;
   max-width: 350px;
   margin: 7em auto;
-  background: #4c4c4c;
+  background: #F2F2F2;
 }
 
 .xd-accordion .side-links {
