@@ -417,7 +417,7 @@ input:checked + label::before {
 }
 
 .xd-accordion .side-links {
-  background: #F2F2F2;
+  background: #607D8B;
   color: #FFF;
   padding: 8px 20px;
   cursor: pointer;
