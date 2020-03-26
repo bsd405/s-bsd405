@@ -4,8 +4,8 @@ html {
 }
 
 body {
-  background: linear-gradient(45deg, #F4EBE5, #E3D4CA);
-  color: #C0C3C9;
+  background: #FFF;
+  color: #8d9096;
   font-family: "Open Sans";
   font-size: 0.75rem;
   font-weight: 400;
@@ -21,7 +21,7 @@ body {
   -webkit-box-direction: normal;
           flex-direction: row;
   flex-wrap: nowrap;
-  background: #FFF;
+  background: linear-gradient(45deg, #F4EBE5, #E3D4CA);
   width: 64rem;
   height: 42.5rem;
   border-radius: 0.4375rem;
