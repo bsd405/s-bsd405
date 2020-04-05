@@ -17,21 +17,7 @@
             </form>
         </div>
     </div>
-    <div class="form-panel two">
-        <div class="form-header">
-            <h1>Register Account</h1>
-        </div>
-        <div class="form-content">
-            <form>
-                <div class="form-group"><label for="username">Username</label><input type="text" id="username" name="username" required="required" /></div>
-                <div class="form-group"><label for="password">Password</label><input type="password" id="password" name="password" required="required" /></div>
-                <div class="form-group"><label for="cpassword">Confirm Password</label><input type="password" id="cpassword" name="cpassword" required="required" /></div>
-                <div class="form-group"><label for="email">Email Address</label><input type="email" id="email" name="email" required="required" /></div>
-                <div class="form-group"><button type="submit">Register</button></div>
-            </form>
-        </div>
-    </div>
-</div>
+    </div
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="https://codepen.io/andytran/pen/vLmRVp.js"></script>
     <script>
