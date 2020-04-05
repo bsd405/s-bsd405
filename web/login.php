@@ -1,5 +1,6 @@
 <!doctype html>
 <html>
+<link rel="stylesheet" href="./login.css">
 <!-- Form-->
 <div class="form">
     <div class="form-toggle"></div>
